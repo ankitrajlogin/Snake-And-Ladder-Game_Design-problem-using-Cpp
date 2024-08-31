@@ -46,6 +46,8 @@ Gaurav rolled a 6 and moved from 0 to 6 Sagar rolled a 1 and moved from 0 to 1 .
    git clone https://github.com/ankitrajlogin/snake-and-ladder-game.git
 
 ## Future Enhancements
-Support for two dice instead of one.
-
-Handling additional game rules like consecutive 6s.
+- The game is played with two dice instead of 1 and so the total dice value could be between 2 to 12 in a single move.-
+- The board size can be customizable and can be taken as input before other input (snakes, ladders, players).
+- In case of more than 2 players, the game continues until only one player is left.
+- On getting a 6, you get another turn and on getting 3 consecutive 6s, all the three of those get cancelled.
+- On starting the application, the snakes and ladders should be created programmatically without any user input, keeping in mind the constraints mentioned in rules.

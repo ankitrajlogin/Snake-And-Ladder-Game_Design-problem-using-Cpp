@@ -45,4 +45,5 @@ Gaurav rolled a 6 and moved from 0 to 6 Sagar rolled a 1 and moved from 0 to 1 .
 
 ## Future Enhancements
 Support for two dice instead of one.
+
 Handling additional game rules like consecutive 6s.

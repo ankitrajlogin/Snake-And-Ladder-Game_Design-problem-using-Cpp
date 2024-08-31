@@ -9,6 +9,8 @@ The game board has 100 cells numbered from 1 to 100. Players take turns to roll 
 - **Snakes**: Moves the player down to a lower position.
 - **Ladders**: Moves the player up to a higher position.
 
+Problem Statement Link : https://workat.tech/machine-coding/practice/snake-and-ladder-problem-zgtac9lxwntg
+
 ### Input
 
 - Number of snakes, followed by head and tail positions of each snake.
